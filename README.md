@@ -77,6 +77,29 @@ La base de datos necesita una base llamada `arus_crm` con las tablas correspondi
 
 Proyecto funcional con CRUD completo implementado para las tres entidades. Pensado como base extensible hacia funcionalidades futuras como facturación o integración de leads desde web.
 
+## Capturas de pantalla
+
+### Listado de clientes
+![Listado de clientes](docs/screenshots/listado-clientes.png)
+
+### Formulario de clientes
+![Formulario de clientes](docs/screenshots/formulario-clientes.png)
+
+### Aviso de selección
+![Aviso de selección](docs/screenshots/aviso-de-seleción.png)
+
+### Editar cliente
+![Editar cliente](docs/screenshots/editar-cliente.png)
+
+### Eliminar cliente
+![Eliminar cliente](docs/screenshots/eliminar-cliente.png)
+
+### Listado de servicios
+![Listado de servicios](docs/screenshots/listado-servicios.png)
+
+### Listado de contratos
+![Listado de contratos](docs/screenshots/listado-contratos.png)
+
 ---
 
 Proyecto desarrollado por Roberto Solana como parte de su portfolio de prácticas DAM.
