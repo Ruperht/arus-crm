@@ -86,7 +86,7 @@ Proyecto funcional con CRUD completo implementado para las tres entidades. Pensa
 ![Formulario de clientes](docs/screenshots/formulario-clientes.png)
 
 ### Aviso de selección
-![Aviso de seleccion](docs/screenshots/aviso-de-selecion.png)
+![Aviso de seleccion](docs/screenshots/aviso-de-seleccion.png)
 
 ### Editar cliente
 ![Editar cliente](docs/screenshots/editar-cliente.png)
