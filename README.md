@@ -102,4 +102,4 @@ Proyecto funcional con CRUD completo implementado para las tres entidades. Pensa
 
 ---
 
-Proyecto desarrollado por Roberto Solana como parte de su portfolio de prácticas DAM.
+Proyecto desarrollado por Roberto Solana.
